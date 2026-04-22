@@ -168,5 +168,5 @@ Final correct version of the alignment parsing.
 Detailed implementation of the primer design algorithm.
 KASP marker validation steps (in silico PCR or experimental validation).
 
-# Developer: Sevim ÇAPAR
-# Molecular Biologist | Biotechnology MSc. Researcher
+### Developer: Sevim ÇAPAR
+### Molecular Biologist | Biotechnology MSc. Researcher
