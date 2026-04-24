@@ -38,7 +38,6 @@ brew install samtools
 makeblastdb -in S_arcanum_genome.fna -dbtype nucl -out arcanum_db
 
 ## Running BLAST (protein vs genome)
-## (Full command marked as Missing Information)
 
 ## Extracting genomic region
 samtools faidx S_arcanum_genome.fna CM050934.1:52329256-52330500 > gene_region.fasta
