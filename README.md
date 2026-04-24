@@ -3,7 +3,7 @@
 This project was developed as a learning-oriented bioinformatics pipeline to understand SNP detection and KASP marker design workflows. It is not intended as a finalized marker development study, but as a technical exploration of the process.
 
 # Description
-This project was developed to detect Single Nucleotide Polymorphisms (SNPs) in the tomato genome (Solanum lycopersicum and Solanum arcanum) and to generate KASP (Competitive Allele-Specific PCR) marker candidates based on these SNPs. The workflow includes translating CDS sequences to proteins, genomic alignment, SNP extraction, and genomic context analysis. Core bioinformatics operations were performed using Python and Biopython, supported by terminal-based tools such as BLAST and samtools. The project presents a prototype pipeline merging manual analysis with automation.
+This project was developed to detect Single Nucleotide Polymorphisms (SNPs) in the tomato genome (Solanum lycopersicum and Solanum arcanum) and to generate KASP (Competitive Allele-Specific PCR) marker candidates based on these SNPs. The workflow includes translating CDS sequences to proteins, genomic alignment, SNP extraction, and genomic context analysis. Core bioinformatics operations were performed using Biopython, supported by terminal-based tools such as BLAST and samtools. The project presents a prototype pipeline merging manual analysis with automation.
 
 # Objectives
 This project was developed with the following goals:
