@@ -45,7 +45,7 @@ from Bio import SeqIO
 from Bio.Align import PairwiseAligner
 
 ref = SeqIO.read("Solyc02g084610_CDS.fasta", "fasta").seq
-wild = best_cds  # az önce bulduğun CDS
+wild = best_cds  # az önce bulduğum CDS
 
 aligner = PairwiseAligner()
 aligner.mode = 'global'
