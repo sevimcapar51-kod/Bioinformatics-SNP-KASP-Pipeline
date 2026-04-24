@@ -64,7 +64,7 @@ print(protein[:100])
 protein_record = SeqRecord(
     protein,
     id="Solyc02g084610_protein",
-    description="ERF protein translated from CDS"
+    description="(RLP) protein translated from CDS"
 )
 
 SeqIO.write(protein_record, "protein.fasta", "fasta")
