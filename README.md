@@ -152,7 +152,7 @@ Lowercase sequences usually represent masked/repeat regions.
 In KASP marker design, the genomic context is as decisive as the SNP itself.
 Short primer sequences may yield multiple hits in BLAST (specificity issue).
 
-## Next Steps (Optional)
+## Next Steps
 
 Integrate exon-intron aware mapping using GFF/GTF annotations.
 Implement a more robust variant analysis for SNP validation.
