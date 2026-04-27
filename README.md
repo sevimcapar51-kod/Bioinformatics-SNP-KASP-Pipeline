@@ -1,6 +1,6 @@
 # Bioinformatics-Pipeline-for-SNP-Detection-and-KASP-Marker-Preparation
 ## Note
-This project was developed as a learning-oriented bioinformatics pipeline to understand SNP detection and KASP marker design workflows. It is not intended as a finalized marker development study, but as a technical exploration of the process.
+This project presents an ongoing bioinformatics pipeline for SNP detection and KASP marker development in tomato. It was developed to explore and implement key steps including sequence alignment, SNP identification, filtering, and marker candidate generation. The workflow combines computational analysis with biological interpretation and is continuously being improved.
 
 # Description
 This project was developed to detect Single Nucleotide Polymorphisms (SNPs) in the tomato genome (Solanum lycopersicum and Solanum arcanum) and to generate KASP (Competitive Allele-Specific PCR) marker candidates based on these SNPs. The workflow includes translating CDS sequences to proteins, genomic alignment, SNP extraction, and genomic context analysis. Core bioinformatics operations were performed using Biopython, supported by terminal-based tools such as BLAST and samtools. The project presents a prototype pipeline merging manual analysis with automation.
